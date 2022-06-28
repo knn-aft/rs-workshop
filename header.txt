@@ -1,3 +1,5 @@
 sample text
-changes from <main> - new changes
+changes from <main>
+canges from <f1>
 
+text from main: new changes!
